@@ -1,0 +1,6 @@
+| Année | Indice des prix à la consommation (France) |
+| :--: | :--: |
+| 2018 | 1,8 |
+| 2019 | 1,1 |
+| 2020 | 0,5 |
+| 2021 | 0,7 |

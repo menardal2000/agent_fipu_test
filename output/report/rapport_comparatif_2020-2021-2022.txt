@@ -1,0 +1,26 @@
+Rapport comparatif pour la question : extrais les chiffres d'inflation pour la France et mets les sous format excel
+
+
+=== Année 2020 ===
+| Année | Inflation France (%) |
+| :-- | :--: |
+| 2017 | 1,0 |
+| 2018 | 1,8 |
+| 2019 | 1,2 |
+| 2020 | 1,2 |
+
+=== Année 2021 ===
+| Année | Indice des prix à la consommation (France) |
+| :--: | :--: |
+| 2018 | 1,8 |
+| 2019 | 1,1 |
+| 2020 | 0,5 |
+| 2021 | 0,7 |
+
+=== Année 2022 ===
+| Année | Inflation totale (%) | Inflation sous-jacente (%) |
+|-------|--------------------|----------------------------|
+| 2019  | 1,1                |                            |
+| 2020  | 0,5                |                            |
+| 2021  | 1,5                | 1,1                        |
+| 2022  | 1,5                | 1,5                        |
